@@ -245,11 +245,9 @@ This command assumes the application and its dependencies are configured correct
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/student-depression-prediction-ml.git
+git clone https://github.com/subhrank09/student-depression-prediction-ml.git
 cd student-depression-prediction-ml
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Create a Virtual Environment
 
@@ -320,7 +318,7 @@ python src/tune_xgboost.py
 
 Computer Science and Engineering | Machine Learning | Data Science
 
-GitHub: [YOUR_GITHUB_PROFILE](https://github.com/subhrank09)
+GitHub: [subhrank09](https://github.com/subhrank09)
 
 ---
 
