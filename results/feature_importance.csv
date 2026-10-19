@@ -1,0 +1,97 @@
+Feature,Importance
+categorical__Have you ever had suicidal thoughts ?_No,0.32431358
+categorical__Have you ever had suicidal thoughts ?_Yes,0.12718168
+numerical__Academic Pressure,0.07680189
+numerical__Financial Stress,0.04250739
+categorical__Dietary Habits_Unhealthy,0.01728232
+numerical__Age,0.015123964
+categorical__Dietary Habits_Healthy,0.015111226
+numerical__Work/Study Hours,0.013340148
+numerical__Study Satisfaction,0.011677534
+categorical__Sleep Duration_Less than 5 hours,0.008819212
+categorical__Sleep Duration_More than 8 hours,0.008705447
+categorical__Degree_MA,0.0072807265
+categorical__Family History of Mental Illness_No,0.007131196
+categorical__City_Jaipur,0.006719712
+categorical__City_Meerut,0.0065307813
+categorical__City_Nagpur,0.006378387
+categorical__Degree_ME,0.006355889
+categorical__City_Hyderabad,0.006196876
+categorical__Degree_MSc,0.0061316276
+categorical__Degree_M.Tech,0.0060931384
+categorical__City_Mumbai,0.0060409103
+categorical__City_Rajkot,0.0060012746
+categorical__City_Agra,0.005936379
+categorical__City_Vadodara,0.0059202225
+categorical__Degree_BHM,0.0058955243
+categorical__Degree_MD,0.005886203
+categorical__Degree_Class 12,0.005880496
+categorical__City_Ahmedabad,0.0058456454
+categorical__City_Pune,0.0056258156
+categorical__City_Patna,0.005587851
+categorical__City_Lucknow,0.0055661486
+categorical__Degree_B.Pharm,0.0054622674
+categorical__City_Kolkata,0.00535265
+categorical__Degree_BE,0.0053061866
+categorical__Degree_BA,0.0053058043
+categorical__City_Bangalore,0.0053021875
+categorical__Degree_B.Tech,0.005262706
+categorical__Degree_MCA,0.0052508274
+categorical__Degree_PhD,0.005249481
+categorical__Family History of Mental Illness_Yes,0.0052221566
+categorical__Degree_M.Pharm,0.005213403
+categorical__City_Delhi,0.005211342
+categorical__City_Surat,0.005188984
+categorical__City_Srinagar,0.0051630232
+categorical__Degree_BSc,0.005139934
+categorical__City_Bhopal,0.0051354775
+categorical__City_Varanasi,0.0050980593
+categorical__City_Chennai,0.0050924486
+categorical__City_Visakhapatnam,0.0050516534
+categorical__City_Nashik,0.005037653
+categorical__Degree_LLM,0.005036247
+numerical__CGPA,0.0050227707
+categorical__Degree_B.Ed,0.0049964534
+categorical__Degree_B.Arch,0.0049514053
+categorical__City_Kalyan,0.0049050273
+categorical__City_Ludhiana,0.0049001053
+categorical__City_Indore,0.004890749
+categorical__Degree_BCA,0.0048725274
+categorical__City_Vasai-Virar,0.0048584435
+categorical__Degree_B.Com,0.0048502665
+categorical__Degree_BBA,0.0048152027
+categorical__Degree_MBBS,0.0047586123
+categorical__City_Faridabad,0.004737317
+categorical__Degree_MHM,0.00471889
+categorical__Degree_LLB,0.0046941345
+categorical__Degree_MBA,0.004640695
+categorical__Degree_M.Com,0.004583858
+categorical__City_Ghaziabad,0.0043000495
+categorical__Degree_M.Ed,0.0041394434
+categorical__City_Thane,0.004087742
+categorical__City_Kanpur,0.00390845
+categorical__Dietary Habits_Moderate,0.0038791634
+categorical__Gender_Male,0.0037584298
+categorical__Gender_Female,0.0036468275
+categorical__Sleep Duration_7-8 hours,0.0036148073
+categorical__Sleep Duration_5-6 hours,0.0035169844
+categorical__City_3.0,0.0
+categorical__City_Gaurav,0.0
+categorical__City_Bhavna,0.0
+categorical__City_City,0.0
+categorical__City_Less than 5 Kalyan,0.0
+categorical__City_Less Delhi,0.0
+categorical__City_Khaziabad,0.0
+categorical__City_Harsh,0.0
+categorical__City_Harsha,0.0
+categorical__Sleep Duration_Others,0.0
+categorical__Dietary Habits_Others,0.0
+categorical__City_Saanvi,0.0
+categorical__City_Mihir,0.0
+categorical__City_Mira,0.0
+categorical__City_M.Com,0.0
+categorical__City_M.Tech,0.0
+categorical__City_Nalyan,0.0
+categorical__City_Nandini,0.0
+categorical__City_Reyansh,0.0
+categorical__Degree_Others,0.0
